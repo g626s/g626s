@@ -1,5 +1,10 @@
-### Marketing | Data Analytics | Data Science Enthusiast
-More on [g626s.github.io](https://g626s.github.io/)
+<h1 align='center'>
+  Marketing | Data Analytics | Data Science Enthusiast
+</h1>
+
+Marketing and Data Analyst from California.
+ 
+  More on [g626s.github.io](https://g626s.github.io/)
 
 <table><tr>
 
