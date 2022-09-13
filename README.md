@@ -1,4 +1,11 @@
-### Hi there 👋
+### Marketing | Data Analytics | Data Science Enthusiast
+More on [g626s.github.io](https://g626s.github.io/)
+
+<table><tr>
+
+---
+
+## Hi there 👋
 
 ## Operating System & Tools
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
