@@ -18,10 +18,10 @@ More on [g626s.github.io](https://g626s.github.io/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
-## Profile Stats
+## Stats
 [![g626s's github stats](https://github-readme-stats.vercel.app/api?username=g626s&count_private=true&show_icons=true)](https://github.com/g626s/g626s)
 
-## Profile Summary
+## Summary
 [![g626s's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g626s&theme=vue)](https://github.com/g626s/g626s)
 
   <table><tr>
