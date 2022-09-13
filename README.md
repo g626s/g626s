@@ -20,3 +20,10 @@ More on [g626s.github.io](https://g626s.github.io/)
 
 ## Stats
 [![g626s's github stats](https://github-readme-stats.vercel.app/api?username=g626s&count_private=true&show_icons=true)](https://github.com/g626s/g626s)
+
+<table><tr>
+
+---
+
+## Lets Connect:
+<a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
