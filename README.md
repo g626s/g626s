@@ -26,4 +26,4 @@ More on [g626s.github.io](https://g626s.github.io/)
 ---
 
 ## Lets Connect:
-<a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a>
