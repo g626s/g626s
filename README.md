@@ -14,7 +14,7 @@ Marketing and Data Analyst from California.
   
 ## Workspace
 
-#### Operating System & Tools
+#### Operating System & IDE
 [![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
   
