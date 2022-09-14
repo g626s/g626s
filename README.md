@@ -24,8 +24,10 @@ Marketing and Data Analyst from California.
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/#)
   
 
-#### Technology Stack
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+#### Languages
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+
 [![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-FF6600?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 
