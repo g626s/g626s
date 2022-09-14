@@ -11,12 +11,20 @@ Marketing and Data Analyst from California.
 ---
 
 ## Hi there 👋
+  
+## Workspace
 
-## Operating System & Tools
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+#### Operating System & Tools
+[![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
+[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  
+#### Frameworks & Libraries
+[![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/#)
+  
 
-## Technology Stack
+#### Technology Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-FF6600?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
