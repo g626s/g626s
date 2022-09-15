@@ -48,6 +48,12 @@ Marketing and Data Analyst from California.
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </details>
 
+<details>
+<summary>Analytics</summary>
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/gustavo.sanchez8211)
+</details>
+
 ## Summary
 [![g626s's github summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g626s&theme=vue)](https://github.com/g626s/g626s)
 
@@ -56,7 +62,7 @@ Marketing and Data Analyst from California.
 ---
 
 ##  Where to find me 
-<a href="https://g626s.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/> <a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a> <a href="https://www.codewars.com/users/g626s"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
+<a href="https://g626s.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/> <a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a> <a href="https://public.tableau.com/app/profile/gustavo.sanchez8211"><img src="https://img.shields.io/badge/Tableau_Public-E97640?style=for-the-badge&logo=Tableau&logoColor=white" height=25></a> <a href="https://www.codewars.com/users/g626s"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
     
 ## Contact Me 
 📫 Email: <a href='mailto:gustavosypr@gmail.com'>gustavosypr@gmail.com</a>
