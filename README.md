@@ -19,6 +19,7 @@ Marketing and Data Analyst from California.
 
 [![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://www.rstudio.com/)
 </details>
 
 <details>
@@ -41,6 +42,7 @@ Marketing and Data Analyst from California.
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)](https://leafletjs.com/index.html)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 </details>
 
 <details>
