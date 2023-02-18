@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Marketing | Data Analytics | Data Science Enthusiast
+  Marketing | Data Analytics | Web Analytics | Consultant 
 </h1>
 
 <h2 align='center'>
-Marketing and Data Analyst from California.
+Marketing and Data Analyst from Los Angeles, Ca.
 </h2>
 
 <table><tr>
