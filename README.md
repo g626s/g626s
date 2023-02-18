@@ -10,7 +10,8 @@ Marketing and Data Analyst from California.
 
 ---
 
-## Hi there 👋
+## About
+I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _insights_ to drive efficiency. I always look forward to collaborating and learning from others. Excited to put my skills to use in an impactful role where I feel that I'm making a real difference in my industries of interest.
   
 ## Workspace
   
