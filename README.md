@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align='center'>
-Marketing and Data Analyst from Los Angeles, Ca.
+Los Angeles, Ca.
 </h2>
 
 <table><tr>
