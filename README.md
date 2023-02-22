@@ -70,6 +70,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 <summary>Cloud Hosting | SaaS</summary>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 </details>
 
 ## [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) Details
