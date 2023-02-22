@@ -16,7 +16,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 ## Workspace
   
 <details>
-<summary>OS | IDE | Editors</summary>
+<summary>💻 OS | IDE | Editors</summary>
 
 [![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -26,7 +26,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
 
 <details>
-<summary>📚Frameworks | Libraries | Platforms</summary>
+<summary>📚 Frameworks | Libraries | Platforms</summary>
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -62,7 +62,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
 
 <details>
-<summary>Cloud Hosting | SaaS</summary>
+<summary>☁️ Cloud Hosting | SaaS</summary>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
