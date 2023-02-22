@@ -37,7 +37,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
   
 <details>
-<summary>Languages</summary>
+<summary>📋 Languages</summary>
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -56,7 +56,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
 
 <details>
-<summary>Analytics</summary>
+<summary>📊 Analytics | Visualization</summary>
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/gustavo.sanchez8211)
 </details>
