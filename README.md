@@ -16,7 +16,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 ## Workspace
   
 <details>
-<summary>Operating System & IDE</summary>
+<summary>Operating System | IDE</summary>
 
 [![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -25,7 +25,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
 
 <details>
-<summary>Frameworks & Libraries</summary>
+<summary>Frameworks | Libraries</summary>
   
 [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -44,7 +44,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 </details>
 
 <details>
-<summary>Technologies</summary>
+<summary>Technologies | Platforms</summary>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
