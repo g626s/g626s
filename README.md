@@ -10,10 +10,10 @@ Los Angeles, Ca.
 
 ---
 
-## About
+# About
 I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _insights_ to drive efficiency. I always look forward to collaborating and learning from others. Excited to put my skills to use in an impactful role where I feel that I'm making a real difference in my industries of interest.
   
-## Workspace
+# Workspace
   
 <details>
 <summary>💻 OS | IDE | Editors</summary>
@@ -72,7 +72,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 </details>
 
-## [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) Details
+# [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) Details
 <h3 align='center'>
 <details>
 <summary>Stats</summary>
@@ -101,10 +101,12 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 
 ---
 
-##  Where to find me 
+#  Where to find me 
 <a href="https://g626s.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/> <a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a> <a href="https://public.tableau.com/app/profile/gustavo.sanchez8211"><img src="https://img.shields.io/badge/Tableau_Public-E97640?style=for-the-badge&logo=Tableau&logoColor=white" height=25></a> <a href="https://www.codewars.com/users/g626s"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a> <a href="https://www.freecodecamp.org/g626s"><img src="https://img.shields.io/badge/freeCodeCamp-32330Y?style=for-the-badge&logo=freeCodeCamp&logoColor=white" height=25></a>
     
-## Contact me 
+# Contact me 
 📫 Email: <a href='mailto:gustavosypr@gmail.com'>gustavosypr@gmail.com</a>
 
 ![Safe](https://img.shields.io/badge/Stay-Safe-red?logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEwIDUxMCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCA1MTAgNTEwIiB3aWR0aD0iNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnPjxnPjxwYXRoIGQ9Im0xNzQuNjEgMzAwYy0yMC41OCAwLTQwLjU2IDYuOTUtNTYuNjkgMTkuNzJsLTExMC4wOSA4NS43OTd2MTA0LjQ4M2g1My41MjlsNzYuNDcxLTY1aDEyNi44MnYtMTQ1eiIgZmlsbD0iI2ZmZGRjZSIvPjwvZz48cGF0aCBkPSJtNTAyLjE3IDI4NC43MmMwIDguOTUtMy42IDE3Ljg5LTEwLjc4IDI0LjQ2bC0xNDguNTYgMTM1LjgyaC03OC4xOHYtODVoNjguMThsMTE0LjM0LTEwMC4yMWMxMi44Mi0xMS4yMyAzMi4wNi0xMC45MiA0NC41LjczIDcgNi41NSAxMC41IDE1LjM4IDEwLjUgMjQuMnoiIGZpbGw9IiNmZmNjYmQiLz48cGF0aCBkPSJtMzMyLjgzIDM0OS42M3YxMC4zN2gtNjguMTh2LTYwaDE4LjU1YzI3LjQxIDAgNDkuNjMgMjIuMjIgNDkuNjMgNDkuNjN6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTM5OS44IDc3LjN2OC4wMWMwIDIwLjY1LTguMDQgNDAuMDctMjIuNjQgNTQuNjdsLTExMi41MSAxMTIuNTF2LTIyNi42NmwzLjE4LTMuMTljMTQuNi0xNC42IDM0LjAyLTIyLjY0IDU0LjY3LTIyLjY0IDQyLjYyIDAgNzcuMyAzNC42OCA3Ny4zIDc3LjN6IiBmaWxsPSIjZDAwMDUwIi8+PHBhdGggZD0ibTI2NC42NSAyNS44M3YyMjYuNjZsLTExMi41MS0xMTIuNTFjLTE0LjYtMTQuNi0yMi42NC0zNC4wMi0yMi42NC01NC42N3YtOC4wMWMwLTQyLjYyIDM0LjY4LTc3LjMgNzcuMy03Ny4zIDIwLjY1IDAgNDAuMDYgOC4wNCA1NC42NiAyMi42NHoiIGZpbGw9IiNmZjRhNGEiLz48cGF0aCBkPSJtMjEyLjgzIDM2MC4xMnYzMGg1MS44MnYtMzB6IiBmaWxsPSIjZmZjY2JkIi8+PHBhdGggZD0ibTI2NC42NSAzNjAuMTJ2MzBoMzYuMTRsMzIuMDQtMzB6IiBmaWxsPSIjZmZiZGE5Ii8+PC9nPjwvc3ZnPg==)
+
+[(Back to top)](#about)
