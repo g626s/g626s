@@ -20,7 +20,6 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 
 [![macOS](https://img.shields.io/badge/Apple-MacBook_Pro-333333?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://www.rstudio.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 </details>
@@ -50,8 +49,6 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-</details>
 
 <details>
 <summary>💾 Databases</summary>
