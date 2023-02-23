@@ -49,6 +49,7 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+</details>
 
 <details>
 <summary>💾 Databases</summary>
