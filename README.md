@@ -6,6 +6,7 @@
 Los Angeles, Ca.
 </h2>
 
+![](https://komarev.com/ghpvc/?username=g626s&color=blueviolet)
 <table><tr>
 
 ---
