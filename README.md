@@ -100,7 +100,9 @@ I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _i
 ---
 
 #  Where to find me 
-<a href="https://g626s.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/> <a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a> <a href="https://public.tableau.com/app/profile/gustavo.sanchez8211"><img src="https://img.shields.io/badge/Tableau_Public-E97640?style=for-the-badge&logo=Tableau&logoColor=white" height=25></a> <a href="https://www.freecodecamp.org/g626s"><img src="https://img.shields.io/badge/freeCodeCamp-B1361E?style=for-the-badge&logo=freeCodeCamp&logoColor=white" height=25></a>
+<a href="https://g626s.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height=25/> <a href="https://www.linkedin.com/in/gustavosanchez626/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.kaggle.com/gussanchez"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height=25></a> 
+
+<a href="https://public.tableau.com/app/profile/gustavo.sanchez8211"><img src="https://img.shields.io/badge/Tableau_Public-E97640?style=for-the-badge&logo=Tableau&logoColor=white" height=25></a> <a href="https://www.freecodecamp.org/g626s"><img src="https://img.shields.io/badge/freeCodeCamp-B1361E?style=for-the-badge&logo=freeCodeCamp&logoColor=white" height=25></a>
     
 # Contact me 
   
