@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Marketing | Data & Web Analytics 
+  Marketing | Data Analytics | Web Analytics 
 </h1>
 
 <h2 align='center'>
