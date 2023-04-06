@@ -12,7 +12,7 @@ Los Angeles, Ca.
 ---
 
 # About
-I have a love for exploring _numbers_, _data_, _trends_ and uncovering useful _insights_ to drive efficiency. I always look forward to collaborating and learning from others. Excited to put my skills to use in an impactful role where I feel that I'm making a real difference in my industries of interest.
+I have a love and passion for exploring _numbers_, _data_, _trends_ and uncovering useful _insights_ to drive efficiency. Having the knowledge, experience and applicable analytical skills is an essential foundation for narrowing the distance of data and information to consumers through measuring and optimizing digital experiences in the digital advertising and marketing space. I always look forward to collaborating and learning from others. Excited to put my skills to use in an impactful role where I feel that I'm making a real difference in my industries of interest.
   
 # Workspace
   
