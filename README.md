@@ -56,13 +56,6 @@ I have a love and passion for exploring _numbers_, _data_, _trends_ and uncoveri
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/gustavo.sanchez8211)
 </details>
 
-<details>
-<summary>☁️ Cloud Hosting | SaaS</summary>
-
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-</details>
-
 # [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) Details
 <h3 align='center'>
 <details>
